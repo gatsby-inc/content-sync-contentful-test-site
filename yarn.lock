@@ -7287,10 +7287,10 @@ gatsby-page-utils@^2.6.0:
     lodash "^4.17.21"
     micromatch "^4.0.4"
 
-gatsby-plugin-gatsby-cloud@4.7.0-alpha-gatsby-plugin-cloud.2:
-  version "4.7.0-alpha-gatsby-plugin-cloud.2"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-4.7.0-alpha-gatsby-plugin-cloud.2.tgz#d423ba787f299dfcdc90221188dd399f5e11f7d1"
-  integrity sha512-ItW90bSE2MAEwXNVdD+1mSIB1bNhytkXKZ63rR0mhTqaU4GsFdxaauKYAgoZZnJrknOBnM6JwdZksa4BcRJ6dg==
+gatsby-plugin-gatsby-cloud@4.7.0-alpha-gatsby-plugin-cloud.35:
+  version "4.7.0-alpha-gatsby-plugin-cloud.35"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-gatsby-cloud/-/gatsby-plugin-gatsby-cloud-4.7.0-alpha-gatsby-plugin-cloud.35.tgz#54f53656591b935faf90cc4d78db18b9cff813bf"
+  integrity sha512-S05fZnC9TngO5r38WrG1cd3PUVLQ9GhANsar5yT2g/Fgb35usl75E39jvKffxRMrFICadYxdVqkuJjfUKA7XlA==
   dependencies:
     "@babel/runtime" "^7.15.4"
     date-fns "^2.28.0"
@@ -7300,7 +7300,7 @@ gatsby-plugin-gatsby-cloud@4.7.0-alpha-gatsby-plugin-cloud.2:
     js-cookie "^3.0.1"
     kebab-hash "^0.1.2"
     lodash "^4.17.21"
-    webpack-assets-manifest "^5.0.6"
+    webpack-assets-manifest "^5.1.0"
 
 gatsby-plugin-image@^2.0.0:
   version "2.6.0"
@@ -15421,7 +15421,7 @@ webidl-conversions@^3.0.0:
   resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-3.0.1.tgz#24534275e2a7bc6be7bc86611cc16ae0a5654871"
   integrity sha1-JFNCdeKnvGvnvIZhHMFq4KVlSHE=
 
-webpack-assets-manifest@^5.0.6:
+webpack-assets-manifest@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/webpack-assets-manifest/-/webpack-assets-manifest-5.1.0.tgz#5af328f6c8fa760cb9a62af631a83da2b478b791"
   integrity sha512-kPuTMEjBrqZQVJ5M6yXNBCEdFbQQn7p+loNXt8NOeDFaAbsNFWqqwR0YL1mfG5LbwhK5FLXWXpuK3GuIIZ46rg==
